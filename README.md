@@ -10,3 +10,4 @@ The game will require images of the frog, bubbles, coins, lily pads, bees, and b
 The frog must stay on bubbles or platforms to avoid falling off the screen, and colliding with hazards like bees or thorny bubbles costs a heart. Players must reach the top of each level within the time limit, collecting as many coins and stars as possible without losing all hearts.
 #Rewards
 The player receives coins and stars for collecting items and completing levels successfully. Reaching the top of a level also earns points, extra hearts, or fun animations as rewards.
+ o
